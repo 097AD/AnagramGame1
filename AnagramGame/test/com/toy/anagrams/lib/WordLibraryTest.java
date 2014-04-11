@@ -33,7 +33,7 @@ package com.toy.anagrams.lib;
 
 import java.util.Arrays;
 import junit.framework.TestCase;
-
+import javax.swing.JOptionPane;
 /**
  * Test of the functionality of {@link WordLibrary}.
  */
@@ -79,3 +79,5 @@ public class WordLibraryTest extends TestCase {
     }
 
 }
+
+//Teste de Inegração
